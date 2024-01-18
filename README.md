@@ -1,0 +1,1 @@
+This is a simple game that puts your charcater in a location and your charcater moves across the areas in this world, and interacts with the items inside those areas inside the game. there is no endgoal for the game yet.
